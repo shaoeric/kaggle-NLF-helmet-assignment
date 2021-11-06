@@ -1,5 +1,7 @@
 ##  Kaggle NFL Health & Safety - Helmet Assignment 64th/833
 
+Thanks for the contribution of my teammates [@AlvinAi96](https://github.com/AlvinAi96) and [@Leonrain-Liu](https://github.com/Leonrain-Liu).
+
 ### Competition introduction
 
 - competition link: [NFL Health & Safety - Helmet Assignment](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment/overview)
