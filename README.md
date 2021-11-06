@@ -1,7 +1,7 @@
 ##  Kaggle NFL Health & Safety - Helmet Assignment 64th/833
 
 Thanks for the contribution of my teammates [@AlvinAi96](https://github.com/AlvinAi96) and [@Leonrain-Liu](https://github.com/Leonrain-Liu).
-
+For more information, please visit [复盘总结](https://zhuanlan.zhihu.com/p/429141533)
 ### Competition introduction
 
 - competition link: [NFL Health & Safety - Helmet Assignment](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment/overview)
@@ -26,8 +26,8 @@ $ sudo apt-get install ffmpeg
 
 ### Results
 
-- Sideline camera position: 59/60
-- Endzone camera position: 51/60
+- Sideline camera position: correct 59/60 total videos
+- Endzone camera position: correct 51/60 total videos
 - XY mapping [24 validation videos](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment/discussion/281082): 0.23
 - deepsort postprocessing and fusion: 0.529
 
